@@ -1,0 +1,2 @@
+rootProject.name = "GoneProofOfConcept"
+include ':app'
